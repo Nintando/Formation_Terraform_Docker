@@ -4,4 +4,4 @@
 .envrc
 .terraformrc
 terraform.rc
-
+*.box
